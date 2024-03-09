@@ -1,0 +1,8 @@
+{
+  "label": "GraphQL Docs",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "NBA GraphQL API Documentation"
+  }
+}
